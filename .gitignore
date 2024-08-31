@@ -1,3 +1,4 @@
 aws-credentials.txt
 database-credentials.txt
 config/
+node_modules
